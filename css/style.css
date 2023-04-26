@@ -220,7 +220,7 @@
 /* Button styles */
 #folder-setting-modal-modal-close {
 	background-color: #fff;
-	border-radius: 50%;
+	border-radius: 100%;
 	margin-top: 0;
 	padding: 8px;
 	border: none;
